@@ -39,10 +39,7 @@ jobs:
           # This is an optional setting that allows Claude to read CI results on PRs
           additional_permissions: |
             actions: read
-
-          # 加入繁體中文要求
-          prompt: |
-            請使用繁體中文（Traditional Chinese）回應所有對話和文件。
+            prompt: '請使用繁體中文（Traditional Chinese）回應所有對話和文件。'
 
           # Optional: Give a custom prompt to Claude. If this is not specified, Claude will perform the instructions specified in the comment that tagged it.
           # prompt: 'Update the pull request description to include a summary of changes.'
