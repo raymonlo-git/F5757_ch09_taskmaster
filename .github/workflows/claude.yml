@@ -40,9 +40,6 @@ jobs:
           additional_permissions: |
             actions: read
 
-          prompt: |
-            請強制使用繁體中文與我進行對話
-
           # Optional: Give a custom prompt to Claude. If this is not specified, Claude will perform the instructions specified in the comment that tagged it.
           # prompt: 'Update the pull request description to include a summary of changes.'
 
