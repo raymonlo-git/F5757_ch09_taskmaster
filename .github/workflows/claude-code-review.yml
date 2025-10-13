@@ -43,6 +43,7 @@ jobs:
             - Performance considerations
             - Security concerns
             - Test coverage
+            請務必使用繁體中文生成報告
             
             Use the repository's CLAUDE.md for guidance on style and conventions. Be constructive and helpful in your feedback.
 
